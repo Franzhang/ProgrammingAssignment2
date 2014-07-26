@@ -1,5 +1,4 @@
 ## a list of functions to set/get the matrix/inverse of the matrix
-
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function(y) {       
